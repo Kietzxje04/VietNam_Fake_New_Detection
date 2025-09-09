@@ -65,9 +65,9 @@ If you use this dataset or code in your research, please cite:
 
 java
 Copy code
-@dataset{vietnam_fake_news_v3,
+@dataset{vietnam_fake_news,
   author    = {Kietzxje04},
-  title     = {Vietnamese Fake News Dataset - Version 3},
+  title     = {Vietnamese Fake News Detection},
   year      = {2025},
   url       = {https://github.com/Kietzxje04/VietNam_Fake_New_Detection}
 }
